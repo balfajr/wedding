@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/wedding/static/css/main.228ab9f5.css",
+    "main.js": "/wedding/static/js/main.c57e85f0.js",
+    "static/media/[They Long To Be] Close To You.mp3": "/wedding/static/media/[They Long To Be] Close To You.5c43f372cde7671b8a00.mp3",
+    "static/media/iqbaliqbal.jpg": "/wedding/static/media/iqbaliqbal.fd6ded39007542b546a9.jpg",
+    "static/media/dewidewi.jpg": "/wedding/static/media/dewidewi.f5abd144c90c0d10bef2.jpg",
+    "static/media/hero.jpg": "/wedding/static/media/hero.fa823bd71d1c1a155026.jpg",
+    "static/media/us.png": "/wedding/static/media/us.04c7d19300937fc850d7.png",
+    "index.html": "/wedding/index.html",
+    "main.228ab9f5.css.map": "/wedding/static/css/main.228ab9f5.css.map",
+    "main.c57e85f0.js.map": "/wedding/static/js/main.c57e85f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.228ab9f5.css",
+    "static/js/main.c57e85f0.js"
+  ]
+}
